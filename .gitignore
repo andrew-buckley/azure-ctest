@@ -8,3 +8,8 @@
 
 #Visual Studio Code Files
 /.vscode
+
+.idea/
+out/
+*.iml
+target/
